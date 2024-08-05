@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrderTest_LiskovAfter" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-16T14:32:35" hostname="CAOT-ChengwenQu-M" time="0.041">
+  <properties/>
+  <testcase name="testPayValidPaymentType()" classname="OrderTest_LiskovAfter" time="0.041"/>
+  <system-out><![CDATA[Processing credit payment type
+Verifying security code: cq@gmail.com
+2024-04-16 14:02:35.814+00
+210.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

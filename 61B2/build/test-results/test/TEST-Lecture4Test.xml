@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lecture4Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-28T22:56:44" hostname="CAOT-ChengwenQu-M" time="0.013">
+  <properties/>
+  <testcase name="testVerboseDog()" classname="Lecture4Test" time="0.013"/>
+  <system-out><![CDATA[As a dog, I say: 
+bark
+bark
+bark
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
